@@ -1,3 +1,4 @@
+
 /* Exercise_1 */
 
 function joinStrings(string1, string2) {
@@ -70,4 +71,4 @@ var filterString = function(value) {
     
     return parseInt(digits.join(''));
   };
-  
+ 
