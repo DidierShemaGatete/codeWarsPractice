@@ -1,4 +1,4 @@
-/* Exercise 1 */
+/* Exercise_1 */
 
 function joinStrings(string1, string2) {
 
