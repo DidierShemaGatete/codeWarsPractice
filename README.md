@@ -28,6 +28,7 @@ Sum Of Arrays
 ### Exercise 4 Solution 
 
 ```
+
 The smallest
 
 
