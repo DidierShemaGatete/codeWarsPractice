@@ -10,3 +10,8 @@ var filterString = function(value) {
     return parseInt(digits.join(''));
   };
   
+
+function filter(arr){
+return arr.filter(()=> !isNaN(a))
+}
+  
