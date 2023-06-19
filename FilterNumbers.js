@@ -2,7 +2,7 @@
 
 /* Exercise 5 */
 
-var filterString = function(value) {
+const filterString = (value) {
     var digits = value.split('').filter(function(char) {
       return !isNaN(parseInt(char));
     });
