@@ -1,9 +1,8 @@
 /* Exercise 2 */
 
 function sumOfDifferences(arr) {
-    if (arr.length === 0 || arr.length === 1) {
-      return 0;
-    }
+    if (arr.length === 0 || arr.length === 1) return 0;
+    
   
     arr.sort((a, b) => b - a);
     let sum = 0;
