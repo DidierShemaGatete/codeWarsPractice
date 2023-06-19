@@ -3,7 +3,7 @@
 /* Exercise 5 */
 
 const filterString = (value) {
-    var digits = value.split('').filter(function(char) {
+    var digits = value.split('').filter((char) => {
       return !isNaN(parseInt(char));
     });
     
